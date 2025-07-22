@@ -1,0 +1,20 @@
+# AI Voice Assistant Dependencies
+# Core speech and audio libraries
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+pyaudio==0.2.11
+
+# For colored terminal output
+colorama==0.4.6
+
+# Audio processing and utilities
+sounddevice==0.4.6
+numpy==1.24.3
+
+# Optional: For advanced AI features (uncomment if needed)
+# openai>=0.28.0
+# requests>=2.31.0
+# wikipedia>=1.4.0
+
+# Development and testing
+pytest>=7.0.0
